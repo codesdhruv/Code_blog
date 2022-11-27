@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/profile.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/servlets/EditServelet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/helper/Helper.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/show_blog_page.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/register_page.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/load_posts.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/login_page.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SpaceBlog/web/error_page.jsp</file>
+        </group>
+    </open-files>
+</project-private>
